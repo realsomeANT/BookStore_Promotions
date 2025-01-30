@@ -2,8 +2,8 @@
 
 This repository contains the implementation of a Book Store with the following structure:
 
-- **Frontend**: Implemented using Vue 3 and Vite.
-- **Backend**: Implemented using NestJS.
+- **Frontend**: Implemented using Vue 3 and Vite.( uses Vue 3, Tailwind CSS , Typescript)
+- **Backend**: Implemented using NestJS.(Typescript, NestJS, MongoDB)
 - **Database**: MongoDB for data storage.
 
 ---
