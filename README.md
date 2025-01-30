@@ -51,7 +51,7 @@ Ensure you have the following installed:
 4. Start the backend server:
     ```bash
     npm run start:dev
-    ``
+    ```   
 - The backend server will run at:
   `http://localhost:3000`
 ---
@@ -95,30 +95,30 @@ to access the frontend.
 |/product/:id|	DELETE	| Deletes a product by its ID. |
 
 **CRUD**
-- **Create** : use Method: POST ,URL: http://localhost:3000/product ,Headers: Content-Type: application/json
+- **Create** : use Method: POST ,URL: `http://localhost:3000/product` ,Headers: Content-Type: application/json
   ```bash
   ex.{
   "bookname": "Harry Potter And The Philosopher's Stone",
   "price": 100
      }
   ```
-- **Read** : use Method: GET ,Headers: Content-Type: application/json ,URL: http://localhost:3000/product or use URL : http://localhost:3000/product?page={add number}&limit={add number} For Pagination
+- **Read** : use Method: GET ,Headers: Content-Type: application/json ,URL: `http://localhost:3000/product` or use URL : `http://localhost:3000/product?page={add number}&limit={add number}` For Pagination
 - 
-- **Update** : use Method: PUT ,URL: http://localhost:3000/product/{id} ,Headers: Content-Type: application/json
+- **Update** : use Method: PUT ,URL: `http://localhost:3000/product/{id}` ,Headers: Content-Type: application/json
   ```bash
   ex.{
     "bookname": "Harry Potter And The Philosopher's Stone",
     "price": 101
      }
   ```
-- **Delete** : use Method: DELETE ,URL: http://localhost:3000/product/{id}
+- **Delete** : use Method: DELETE ,URL: `http://localhost:3000/product/{id}`
 
 ## Cart API Endpoints
 | Endpoint | Method | Description |
 |-----------------|------|-------------------------------|
 |/cart/add |	POST | Adds products to the cart. |
 
-- **POST** : use Method: POST ,URL : http://localhost:3000/cart/add ,Headers: Content-Type: application/json
+- **POST** : use Method: POST ,URL : `http://localhost:3000/cart/add` ,Headers: Content-Type: application/json
 ```bash
 ex.{
     "books": [ "Harry Potter and the Philosopher's Stone ","Harry Potter and the Philosopher's Stone ","Harry Potter and the Prisoner of Azkaban "  ]
