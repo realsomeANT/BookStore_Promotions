@@ -132,7 +132,7 @@ ex.{
 |/cart	| CartPage | Displays the cart page. |
 
 ---
-## 🛢 Database
+## 🗃️ Database
 
 Use Postman and use Method: POST ,URL: `http://localhost:3000/product` ,Headers: Content-Type: application/json to add data to Database.
 
