@@ -9,6 +9,9 @@ following promotions (Each book costs 100.):
 - Buy 5 different books: 40% off those 5 books
 - Buy 6 different books: 50% off those 6 books
 - Buy 7 different books: 60% off those 7 books
+
+clip introduction video : https://youtu.be/Z0GFQpyKgOc
+
 ---
 
 ## 📝 Book Store - Setup Guide
