@@ -82,9 +82,10 @@ to access the frontend.
  for API access.   
 ---
 
-<h1>API Endpoints</h1>
+### API Endpoints ###
 
-## 🌐 Product API Endpoints
+
+- ## 🌐 Product API Endpoints
 
 | Endpoint	| Method	| Description |
 |---------------|------------|-----------------------|
@@ -113,7 +114,7 @@ to access the frontend.
   ```
 - **Delete** : use Method: DELETE ,URL: `http://localhost:3000/product/{id}`
 
-## 🛒 Cart API Endpoints
+- ## 🛒 Cart API Endpoints
 | Endpoint | Method | Description |
 |-----------------|------|-------------------------------|
 |/cart/add |	POST | Adds products to the cart. |
