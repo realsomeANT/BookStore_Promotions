@@ -20,7 +20,7 @@ This repository contains the implementation of a Book Store with the following s
 - **Database**: MongoDB for data storage.
 
 ---
-💡## Prerequisites
+## 💡 Prerequisites
 
 Ensure you have the following installed:
 
