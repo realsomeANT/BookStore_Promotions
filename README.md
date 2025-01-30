@@ -103,7 +103,7 @@ to access the frontend.
      }
   ```
 - **Read** : use Method: GET ,Headers: Content-Type: application/json ,URL: `http://localhost:3000/product` or use URL : `http://localhost:3000/product?page={add number}&limit={add number}` For Pagination
-- 
+
 - **Update** : use Method: PUT ,URL: `http://localhost:3000/product/{id}` ,Headers: Content-Type: application/json
   ```bash
   ex.{
