@@ -96,19 +96,21 @@ to access the frontend.
 
 **CRUD**
 - **Create** : use Method: POST ,URL: http://localhost:3000/product ,Headers: Content-Type: application/json
+  ```bash
   ex.{
   "bookname": "Harry Potter And The Philosopher's Stone",
   "price": 100
      }
-  
+  ```
 - **Read** : use Method: GET ,Headers: Content-Type: application/json ,URL: http://localhost:3000/product or use URL : http://localhost:3000/product?page={add number}&limit={add number} For Pagination
 - 
 - **Update** : use Method: PUT ,URL: http://localhost:3000/product/{id} ,Headers: Content-Type: application/json
+  ```bash
   ex.{
     "bookname": "Harry Potter And The Philosopher's Stone",
     "price": 101
-}
-
+     }
+  ```
 - **Delete** : use Method: DELETE ,URL: http://localhost:3000/product/{id}
 
 ## Cart API Endpoints
@@ -117,10 +119,11 @@ to access the frontend.
 |/cart/add |	POST | Adds products to the cart. |
 
 - **POST** : use Method: POST ,URL : http://localhost:3000/cart/add ,Headers: Content-Type: application/json
+```bash
 ex.{
     "books": [ "Harry Potter and the Philosopher's Stone ","Harry Potter and the Philosopher's Stone ","Harry Potter and the Prisoner of Azkaban "  ]
    }
-
+```
 ---
 ## Frontend Routes Overview
 |Route|	Page | Description |
