@@ -22,8 +22,8 @@ Ensure you have the following installed:
 1. Clone the repository and navigate to the backend directory:
 
    ```bash
-   git clone https://github.com/yourusername/book-store.git
-   cd book-store/my-backend
+   git clone https://github.com/realsomeANT/BookStore_Promotions.git
+   cd BookStore_Promotions-main/my-backend
     ```
 2. Install the dependencies:
     ```bash 
