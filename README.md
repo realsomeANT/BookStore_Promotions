@@ -153,4 +153,12 @@ The expected value you will enter :
 - Harry Potter and the Deathly Hallows
 
 ---
+## Unit Test : Cart Module API Test
 
+The Cart Module is the part used to calculate all values.
+
+- **step 1** : `cd my-backend`
+- **step 2** : `npm i` If you haven't installed it yet
+- **step 3** : `npm run test`
+
+---
