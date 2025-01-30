@@ -1,4 +1,4 @@
-🧾# About by project :
+## 🧾 About by project :
 
 It is a project to calculate the price of books from the store's promotions.
 following promotions (Each book costs 100.):
@@ -11,7 +11,7 @@ following promotions (Each book costs 100.):
 - Buy 7 different books: 60% off those 7 books
 ---
 
-📝# Book Store - Setup Guide
+## 📝 Book Store - Setup Guide
 
 This repository contains the implementation of a Book Store with the following structure:
 
@@ -30,7 +30,7 @@ Ensure you have the following installed:
 - **Git**
 
 ---
-⚙️## Backend Setup
+## ⚙️ Backend Setup
 
 1. Clone the repository and navigate to the backend directory:
 
@@ -55,7 +55,7 @@ Ensure you have the following installed:
 - The backend server will run at:
   `http://localhost:3000`
 ---
-✨## Frontend Setup
+## ✨ Frontend Setup
 
 1. Navigate to the frontend directory:
     ```bash
@@ -84,7 +84,7 @@ to access the frontend.
 
 <h1>API Endpoints</h1>
 
-🌐## Product API Endpoints
+## 🌐 Product API Endpoints
 
 | Endpoint	| Method	| Description |
 |---------------|------------|-----------------------|
