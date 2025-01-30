@@ -130,3 +130,27 @@ ex.{
 |--------|-------|---------------------------|
 |/	| Home | Displays the home page with products. |
 |/cart	| CartPage | Displays the cart page. |
+
+---
+## Database
+
+Use Postman and use Method: POST ,URL: `http://localhost:3000/product` ,Headers: Content-Type: application/json to add data to Database.
+
+The expected value you will enter :
+
+- Harry Potter and the Philosopher's Stone
+
+- Harry Potter and the Chamber of Secrets
+
+- Harry Potter and the Prisoner of Azkaban
+
+- Harry Potter and the Goblet of Fire
+
+- Harry Potter and the Order of the Phoenix
+
+- Harry Potter and the Half-Blood Prince
+
+- Harry Potter and the Deathly Hallows
+
+---
+
