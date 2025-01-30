@@ -113,7 +113,7 @@ to access the frontend.
   ```
 - **Delete** : use Method: DELETE ,URL: `http://localhost:3000/product/{id}`
 
-## Cart API Endpoints
+## 🛒 Cart API Endpoints
 | Endpoint | Method | Description |
 |-----------------|------|-------------------------------|
 |/cart/add |	POST | Adds products to the cart. |
@@ -125,14 +125,14 @@ ex.{
    }
 ```
 ---
-## Frontend Routes Overview
+## 🔀 Frontend Routes Overview
 |Route|	Page | Description |
 |--------|-------|---------------------------|
 |/	| Home | Displays the home page with products. |
 |/cart	| CartPage | Displays the cart page. |
 
 ---
-## Database
+## 🛢 Database
 
 Use Postman and use Method: POST ,URL: `http://localhost:3000/product` ,Headers: Content-Type: application/json to add data to Database.
 
@@ -153,7 +153,7 @@ The expected value you will enter :
 - Harry Potter and the Deathly Hallows
 
 ---
-## Unit Test : Cart Module API Test
+## 🧐 Unit Test : Cart Module API Test
 
 The Cart Module is the part used to calculate all values.
 
