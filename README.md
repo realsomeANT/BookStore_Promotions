@@ -72,7 +72,7 @@ Ensure you have the following installed:
 - Access the frontend at: 
 `http://localhost:5173`
 ---
-📑## Usage
+## 📑Usage
 
 - Open your browser and go to: 
 `http://localhost:5173` 
